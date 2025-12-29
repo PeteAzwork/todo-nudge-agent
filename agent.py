@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import asyncio
 from claude_agent_sdk import (
     query, ClaudeAgentOptions, AssistantMessage, ResultMessage,
